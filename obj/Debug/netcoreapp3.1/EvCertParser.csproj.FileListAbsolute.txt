@@ -1,0 +1,13 @@
+C:\Users\fiach\source\repos\EvCertParser\bin\Debug\netcoreapp3.1\EvCertParser.exe
+C:\Users\fiach\source\repos\EvCertParser\bin\Debug\netcoreapp3.1\EvCertParser.deps.json
+C:\Users\fiach\source\repos\EvCertParser\bin\Debug\netcoreapp3.1\EvCertParser.runtimeconfig.json
+C:\Users\fiach\source\repos\EvCertParser\bin\Debug\netcoreapp3.1\EvCertParser.runtimeconfig.dev.json
+C:\Users\fiach\source\repos\EvCertParser\bin\Debug\netcoreapp3.1\EvCertParser.dll
+C:\Users\fiach\source\repos\EvCertParser\bin\Debug\netcoreapp3.1\EvCertParser.pdb
+C:\Users\fiach\source\repos\EvCertParser\obj\Debug\netcoreapp3.1\EvCertParser.csprojAssemblyReference.cache
+C:\Users\fiach\source\repos\EvCertParser\obj\Debug\netcoreapp3.1\EvCertParser.AssemblyInfoInputs.cache
+C:\Users\fiach\source\repos\EvCertParser\obj\Debug\netcoreapp3.1\EvCertParser.AssemblyInfo.cs
+C:\Users\fiach\source\repos\EvCertParser\obj\Debug\netcoreapp3.1\EvCertParser.csproj.CoreCompileInputs.cache
+C:\Users\fiach\source\repos\EvCertParser\obj\Debug\netcoreapp3.1\EvCertParser.dll
+C:\Users\fiach\source\repos\EvCertParser\obj\Debug\netcoreapp3.1\EvCertParser.pdb
+C:\Users\fiach\source\repos\EvCertParser\obj\Debug\netcoreapp3.1\EvCertParser.genruntimeconfig.cache
