@@ -8,22 +8,23 @@ namespace EvCertParser
     class CertificateExaminer
     {
 
-        private EvCertificate _certificate;
+        
         public async Task<EvCertificate> Request(string url)
         {
+            EvCertificate certificate = null;
             var handler = new HttpClientHandler
             {
                 UseDefaultCredentials = true,
                 ServerCertificateCustomValidationCallback = (sender, cert, chain, error) =>
                 {
                     var export = cert.Export(X509ContentType.SerializedCert);
-                    _certificate = new EvCertificate(export);
+                    certificate = new EvCertificate(export);
                     return error == SslPolicyErrors.None;
                 }
             };
             using var client = new HttpClient(handler);
             using var response = await client.GetAsync(url);
-            return _certificate;
+            return certificate;
         }
 
        
